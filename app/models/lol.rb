@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-# @expire_at 2021-01-01
+# @expire_at 2021-01-02
 # @deprecated Some notes
-class Poop
+class Lol
   def initialize; end
 end
