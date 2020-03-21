@@ -1,2 +1,3 @@
 app/models/poop.rb
 spec/also_kill_spec.rb
+README.md

@@ -4,4 +4,6 @@
 # @deprecated Some notes
 class Lol
   def initialize; end
+
+  def new_method; end
 end
